@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular as well for browser based applications.
 - 💞️ I’m looking to collaborate on a Resturant/Shop POS & ERP Project that I am going to make open source. 
      The Idea is to help new & small businesses maintain an e-record of their sales and manage their inventory better.
-     It will be based on Tkinter.
+     It will be based on Python-React/Vue.
 - 📫 You can reach me at my email : m.imranali@live.com
 
 <!---
